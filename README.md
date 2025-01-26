@@ -2,7 +2,7 @@
 
 YouTube videolarını indirip, altyazılarını istediğiniz dile çeviren kullanıcı dostu bir masaüstü uygulaması.
 
-![Uygulama Ekran Görüntüsü](screenshot.png)
+![Uygulama Ekran Görüntüsü](https://github.com/brkyyrr/Youtube_Subtitle/blob/main/Uygulama_1.png)
 
 ## 🚀 Özellikler
 
